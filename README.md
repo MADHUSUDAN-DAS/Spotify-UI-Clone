@@ -10,7 +10,7 @@ This project is a testament to what can be achieved with pure HTML and CSS. It's
 
 
 
-![Spotify Clone Screenshot](<img width="1911" height="862" alt="Image" src="https://github.com/user-attachments/assets/24907df0-0819-4f8e-a021-1c25f69a6c70" />)
+![Spotify Clone Screenshot](https://github.com/user-attachments/assets/24907df0-0819-4f8e-a021-1c25f69a6c70)
 
 
 
